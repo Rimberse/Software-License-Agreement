@@ -1,0 +1,16 @@
+.hBox {
+    -fx-background-color: #2f4f4f;
+    -fx-padding: 25;
+    -fx-spacing: 15;
+    -fx-color: Snow;
+    /*-fx-font-size: 14;*/
+}
+.checkBox{
+    /*-fx-padding: 3 10 4 20; */
+    -fx-text-fill: Snow;
+    -fx-spacing: 50;
+}
+
+/*.banner {
+    -fx-background-color: #FF0000;
+}*/
